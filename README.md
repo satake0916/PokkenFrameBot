@@ -1,2 +1,3 @@
 # PokkenFrameBot
-node.jsで作成したtwitter bot
+Node.jsで作成したTwitter bot。
+ローカルホストで動作することを確認。
